@@ -1,0 +1,21 @@
+Title: New project
+
+----
+
+Category: Fashion
+
+----
+
+Client: Gucci
+
+----
+
+Link: 
+
+----
+
+Text: test
+
+----
+
+Uuid: O9WqtJ6u05GcNhnj

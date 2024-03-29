@@ -1,0 +1,26 @@
+title: Projects
+
+sections:
+  drafts:
+    type: pages
+    layout: list
+    template: project
+    text: "{{ page.client }}"
+    info: "{{ page.category }}"
+    status: drafts
+    help: Some kinda instruction and guide as to what's to be done
+    image:
+      ratio: 16/9
+      cover: true
+  projects:
+    headline: Published Projects
+    type: pages
+    layout: cards
+    template: project
+    text: "{{ page.client }}"
+    info: "{{ page.category }}"
+    status: published
+    # limit: 2
+    image:
+      ratio: 16/9
+      cover: true

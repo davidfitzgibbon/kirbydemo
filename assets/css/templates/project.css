@@ -1,0 +1,17 @@
+.project-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+.project-gallery ul {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1em;
+}
+.project-gallery ul li:first-of-type {
+  grid-column-start: 1;
+  grid-column-end: -1;
+}
+dt {
+  font-weight: bold;
+}

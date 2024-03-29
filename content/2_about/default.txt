@@ -1,0 +1,15 @@
+Title: About
+
+----
+
+Text:
+
+This page is going to be cool.
+
+(image: 1.jpeg)
+
+So it is
+
+----
+
+Uuid: 6aBR0oGC4f59Muod

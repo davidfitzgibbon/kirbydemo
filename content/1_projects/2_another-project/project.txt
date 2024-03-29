@@ -1,0 +1,21 @@
+Title: Another
+
+----
+
+Category: Fashion
+
+----
+
+Client: YSL
+
+----
+
+Link: 
+
+----
+
+Text: sdfg sdfg dsfg sdfg
+
+----
+
+Uuid: y4knU2up1biE35pn

@@ -1,0 +1,21 @@
+Title: New one
+
+----
+
+Category: Motoring
+
+----
+
+Client: Porsche
+
+----
+
+Link: https://test.com
+
+----
+
+Text: sdfg
+
+----
+
+Uuid: OfKB1hJJAhng5LNC

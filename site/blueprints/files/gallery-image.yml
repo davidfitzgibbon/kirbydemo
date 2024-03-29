@@ -1,0 +1,15 @@
+title: Gallery Image
+
+fields:
+  alt:
+    width: 1/2
+    type: text
+  caption:
+    width: 1/2
+    type: text
+  photographer:
+    width: 1/2
+    type: text
+  license-name:
+    width: 1/2
+    type: text

@@ -1,0 +1,38 @@
+Title: First project
+
+----
+
+Text:
+
+Hello!
+sdfg sdfg d
+**sdlskdfjgsd** *f*****
+(link: https://codepen.com text: Codepen link)
+
+----
+
+Client: CodePen
+
+----
+
+Year: 2024
+
+----
+
+Category: Web Design
+
+----
+
+Link: https://thing.com
+
+----
+
+Tags: water, lemon, milk
+
+----
+
+X: Tinkery Dan
+
+----
+
+Uuid: xA1SYbpvcx4ofKbA

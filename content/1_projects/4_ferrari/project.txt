@@ -1,0 +1,21 @@
+Title: Ferrari
+
+----
+
+Category: Motoring
+
+----
+
+Client: Ferrari
+
+----
+
+Link: https://ferrari.com
+
+----
+
+Text: Ferrari
+
+----
+
+Uuid: uCecb1xaEucTlj8t
