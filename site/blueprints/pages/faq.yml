@@ -1,0 +1,10 @@
+title: FAQ
+
+columns:
+  main:
+    sections:
+      fields:
+        type: fields
+        fields:
+          answer:
+            type: textarea

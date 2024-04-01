@@ -1,3 +1,4 @@
+php -S localhost:8000 kirby/router.php
 <img src="http://getkirby.com/assets/images/github/plainkit.jpg" width="300">
 
 **Kirby: the CMS that adapts to any project, loved by developers and editors alike.**

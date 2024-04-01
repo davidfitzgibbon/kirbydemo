@@ -1,0 +1,16 @@
+title: Courses
+
+sections:
+  courses:
+    # headline: Published Projects
+    type: pages
+    layout: list
+    template: course
+    # text: "{{ page.client }}"
+    # info: "{{ page.category }}"
+    # status: published
+    # limit: 2
+    image:
+      # show: false
+      # ratio: 16/9
+      # cover: true

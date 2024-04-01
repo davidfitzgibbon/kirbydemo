@@ -1,0 +1,62 @@
+.therapists {
+  display: grid;
+  gap: var(--mid);
+}
+@media screen and (min-width: 510px) {
+  .therapists {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.therapist {
+  border: 1px solid var(--green);
+  border-radius: var(--sml);
+  position: relative;
+  overflow: hidden;
+  padding-bottom: var(--sml);
+  padding-top: var(--mid);
+}
+h1 {
+  font-size: var(--sml);
+  color: var(--green);
+  margin: 1rem 0;
+  padding: 0 var(--sml);
+  display: block;
+}
+p {
+  padding: 0 var(--sml);
+}
+img {
+  max-width: 100%;
+  position: relative;
+}
+.therapist.img {
+  padding-top: 0;
+}
+.therapist.img:after {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding-top: 56.545961%;
+  mix-blend-mode: multiply;
+}
+.therapist.img:nth-child(6n + 1):after {
+  background-color: var(--pastel-purple);
+}
+.therapist.img:nth-child(6n + 2):after {
+  background-color: var(--pastel-teal);
+}
+.therapist.img:nth-child(6n + 3):after {
+  background-color: var(--pastel-green);
+}
+.therapist.img:nth-child(6n + 4):after {
+  background-color: var(--pastel-pink);
+}
+.therapist.img:nth-child(6n + 5):after {
+  background-color: var(--pastel-yellow);
+}
+.therapist.img:nth-child(6n + 6):after {
+  background-color: var(--pastel-blue);
+}

@@ -1,0 +1,45 @@
+Title: Supervision Course
+
+----
+
+Id: supervisionCourse
+
+----
+
+Description: Provides a training for those who wish to becomes Clinical Supervisors
+
+----
+
+Level: Diploma in Supervision
+
+----
+
+Code: DL916
+
+----
+
+Duration: x1 year
+
+----
+
+Timerequirement: 
+
+----
+
+Startdate: January 2021
+
+----
+
+Places: 20
+
+----
+
+Minentry: 
+
+----
+
+Applicationprocess: Let us know if you're interested at <a href='mailto:iippSubmissions@outlook.com'>iippSubmissions@outlook.com</a>
+
+----
+
+Uuid: 3d7goxAPNn0R24hj

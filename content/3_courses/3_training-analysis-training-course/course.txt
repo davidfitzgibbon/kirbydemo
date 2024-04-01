@@ -1,0 +1,45 @@
+Title: Training Analysis Training Course
+
+----
+
+Id: trainingAnalysis
+
+----
+
+Description: This course is for senior Psychoanalytic Psychotherapists who undertake further post-graduate training to become therapists to the new undergraduate students who are beginning their training.
+
+----
+
+Level: Diploma in Training Analysis
+
+----
+
+Code: DL916
+
+----
+
+Duration: x16 monthly seminars
+
+----
+
+Timerequirement: 
+
+----
+
+Startdate: TBC
+
+----
+
+Places: 20
+
+----
+
+Minentry: 
+
+----
+
+Applicationprocess: Let us know if you're interested at <a href='mailto:iippSubmissions@outlook.com'>iippSubmissions@outlook.com</a>
+
+----
+
+Uuid: 1VSGNZnFNuoNIFIO

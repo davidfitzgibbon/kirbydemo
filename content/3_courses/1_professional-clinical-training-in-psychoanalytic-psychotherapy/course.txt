@@ -1,0 +1,51 @@
+Title: Professional Clinical Training in Psychoanalytic Psychotherapy
+
+----
+
+Id: msc
+
+----
+
+Description:
+
+In conjunction with Trinity College the IIPP runs a four year course in Professional Clinic Psychoanalytic Psychotherapy.
+<br><br>
+The first two years consist of an MSc course in Trinity which includes theory and personal psychoanalysis.
+<br><br>
+The second two years consist of clinical seminars and training in clinical practice.
+
+----
+
+Level: MSc in Psychoanalytic Psychotherapy and a Clinical Diploma in Psychoanalytic Psychotherapy
+
+----
+
+Code: 
+
+----
+
+Duration: x4 years
+
+----
+
+Timerequirement: 
+
+----
+
+Startdate: September 2021
+
+----
+
+Places: 
+
+----
+
+Minentry: 
+
+----
+
+Applicationprocess: <a href="https://www.tcd.ie/medicine/psychiatry/postgraduate/psychoanalytic-psychotherapy/" target="_blank">Apply here</a>
+
+----
+
+Uuid: cwz0RU61vcFyLrOG
